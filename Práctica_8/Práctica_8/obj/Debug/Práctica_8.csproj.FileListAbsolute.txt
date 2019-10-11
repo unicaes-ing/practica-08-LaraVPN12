@@ -1,0 +1,6 @@
+c:\users\rossy\documents\visual studio 2013\Projects\Práctica_8\Práctica_8\bin\Debug\Práctica_8.exe.config
+c:\users\rossy\documents\visual studio 2013\Projects\Práctica_8\Práctica_8\bin\Debug\Práctica_8.exe
+c:\users\rossy\documents\visual studio 2013\Projects\Práctica_8\Práctica_8\bin\Debug\Práctica_8.pdb
+c:\users\rossy\documents\visual studio 2013\Projects\Práctica_8\Práctica_8\obj\Debug\Práctica_8.csprojResolveAssemblyReference.cache
+c:\users\rossy\documents\visual studio 2013\Projects\Práctica_8\Práctica_8\obj\Debug\Práctica_8.exe
+c:\users\rossy\documents\visual studio 2013\Projects\Práctica_8\Práctica_8\obj\Debug\Práctica_8.pdb
